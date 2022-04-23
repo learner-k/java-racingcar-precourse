@@ -9,5 +9,5 @@
     - [x] 자동차 목록을 관리하기 위해 `Cars` 클래스 구현.
     - [x] 전진 여부를 생성하는 `RaceActionGenerator` 클래스 구현.
   - 경주 완료 처리: 최종 우승한 자동차 이름 목록을 반환한다. 
-- [ ] `RaceController` 클래스 구현. 
+- [x] `RaceController` 클래스 구현. 
   - 입출력 요구사항에 맞춰 Console IO 를 처리. 
